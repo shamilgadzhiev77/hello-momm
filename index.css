@@ -1,0 +1,9 @@
+h1 {
+    font-size: 40px;
+    color:blue;
+    margin-bottom: 100px;
+}
+.output {
+    font-weight: bold;
+    color: red;
+}
